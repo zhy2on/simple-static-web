@@ -1,0 +1,23 @@
+{
+  "name": "simple-static-web",
+  "version": "1.0.0",
+  "description": "simple static website for inception subject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhy2on/simple-static-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhy2on/simple-static-web/issues"
+  },
+  "homepage": "https://github.com/zhy2on/simple-static-web#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
